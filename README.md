@@ -1,14 +1,16 @@
-# 基于vue+express+nodejs爬虫的移动书城
+## 基于vue+express+nodejs爬虫的移动书城 [ssr版本](https://github.com/tgxhx/vue-reader-ssr)
 
 > 技术栈：vue + vue-router + vuex + webpack + axios + less + flex + express + nodejs + mysql + localStorage
 
-> [预览地址](http://39.108.14.248/reader)
+> [预览地址](https://xyxxxx.com/reader)
 
 > [api地址](https://github.com/tgxhx/node-book-api)
 
 > [爬虫地址](https://github.com/tgxhx/node-crawler)
 
-> 另外推荐一下自己另外一个[高仿网易云音乐](https://github.com/tgxhx/vue-music)和一个[MD风格Cnode社区](https://github.com/tgxhx/vue-md-cnode)
+> 出了个人考虑，暂时关闭了在线api接口，提供sql文件下载，包含了接口使用的数据，可直接导入mysql中，[下载地址](https://pan.baidu.com/s/1b08B3S)
+
+> 另外推荐一下本项目的[react版本](https://github.com/tgxhx/react-reader),自己另外一个[vue高仿网易云音乐](https://github.com/tgxhx/vue-music)和一个[MD风格Cnode社区](https://github.com/tgxhx/vue-md-cnode)
 ## 使用说明
 
 ``` bash
